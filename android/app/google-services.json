@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894939170845",
+    "project_id": "medi-app-ee78e",
+    "storage_bucket": "medi-app-ee78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894939170845:android:9a8d8c148ee89e47331ef4",
+        "android_client_info": {
+          "package_name": "com.example.medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB553EcIW84RGYW1GDa8gYn_DNN9-tCBx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
